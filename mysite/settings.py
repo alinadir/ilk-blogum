@@ -25,7 +25,7 @@ SECRET_KEY = '^3iq!l+ipktmuf=jh19##_b(gnha)b74ray7fcf2k0o+xoj@$m'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['alinadir.pythonanywhere.com']
 
 
 # Application definition
